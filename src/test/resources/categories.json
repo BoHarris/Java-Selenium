@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Assertion failure",
+    "matchedStatuses": ["failed"],
+    "traceRegex": ".*AssertionError.*"
+  },
+  {
+    "name": "Selenium timeouts",
+    "matchedStatuses": ["failed"],
+    "traceRegex": ".*TimeoutException.*"
+  }
+]

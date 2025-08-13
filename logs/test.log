@@ -1,0 +1,31 @@
+[2025-08-12 18:33:10] INFO  base.BaseTest - Opening base URL: https://the-internet.herokuapp.com
+[2025-08-12 18:33:10] INFO  base.BaseTest - Opening base URL: https://the-internet.herokuapp.com
+[2025-08-12 18:37:01] INFO  base.BaseTest - Opening base URL: https://the-internet.herokuapp.com
+[2025-08-12 18:37:01] INFO  base.BaseTest - Opening base URL: https://the-internet.herokuapp.com
+[2025-08-12 18:40:44] INFO  base.BaseTest - Opening base URL: https://the-internet.herokuapp.com
+[2025-08-12 18:40:44] INFO  base.BaseTest - Opening base URL: https://the-internet.herokuapp.com
+[2025-08-12 18:45:56] INFO  base.BaseTest - Opening base URL: https://the-internet.herokuapp.com
+[2025-08-12 18:45:56] INFO  base.BaseTest - Opening base URL: https://the-internet.herokuapp.com
+[2025-08-12 19:07:29] INFO  base.BaseTest - Opening base URL: https://the-internet.herokuapp.com
+[2025-08-12 19:07:29] INFO  base.BaseTest - Opening base URL: https://the-internet.herokuapp.com
+[2025-08-13 00:43:36] INFO  base.BaseTest - Opening base URL: https://the-internet.herokuapp.com
+[2025-08-13 00:43:36] INFO  base.BaseTest - Opening base URL: https://the-internet.herokuapp.com
+[2025-08-13 00:54:31] INFO  base.BaseTest - Opening base URL: https://the-internet.herokuapp.com
+[2025-08-13 00:54:31] INFO  base.BaseTest - Opening base URL: https://the-internet.herokuapp.com
+[2025-08-13 00:57:36] INFO  base.BaseTest - Opening base URL: https://the-internet.herokuapp.com
+[2025-08-13 00:57:36] INFO  base.BaseTest - Opening base URL: https://the-internet.herokuapp.com
+[2025-08-13 01:04:31] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+[2025-08-13 01:04:31] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+[2025-08-13 01:04:31] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+[2025-08-13 01:04:32] INFO  base.BaseTest - Opening base URL: https://the-internet.herokuapp.com
+[2025-08-13 01:04:32] INFO  base.BaseTest - Opening base URL: https://the-internet.herokuapp.com
+[2025-08-13 01:08:10] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+[2025-08-13 01:08:10] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+[2025-08-13 01:08:10] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+[2025-08-13 01:08:11] INFO  base.BaseTest - Opening base URL: https://the-internet.herokuapp.com
+[2025-08-13 01:08:11] INFO  base.BaseTest - Opening base URL: https://the-internet.herokuapp.com
+[2025-08-13 01:59:37] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+[2025-08-13 01:59:37] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+[2025-08-13 01:59:37] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+[2025-08-13 01:59:39] INFO  base.BaseTest - Opening base URL: https://the-internet.herokuapp.com
+[2025-08-13 01:59:39] INFO  base.BaseTest - Opening base URL: https://the-internet.herokuapp.com
